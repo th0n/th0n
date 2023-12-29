@@ -1,5 +1,5 @@
 <h2> what up, my name is Anthony Guevara ✌</h2>
-<img align='right' src="https://media.giphy.com/media/lTLY0aBWN5SaMeBzLd/giphy.gif" width="500" >
+<img align='right' src="https://media.giphy.com/media/YoBdjzqa0M6cP5lAYb/giphy.gif" width="200" >
 <p><em>Software Enginner at <a href="https://www.uneg.edu.ve/">Universidad Nacional Experimental de Guayana</br></a> 
 </em></p>
 
