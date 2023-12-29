@@ -6,6 +6,8 @@
 [![Twitter: Abinary015](https://img.shields.io/twitter/follow/ABinary015?style=social)](https://twitter.com/ABinary015)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![Linkedin: thony_a15](https://img.shields.io/badge/-thony_a15-orange?style=flat-square&logo=Instagram&logoColor=red&link=https://www.instagram.com/in/thony_a15/)](https://www.instagram.com/thony_a15/)
+
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
